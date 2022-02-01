@@ -1,16 +1,21 @@
-### Hi there 👋
+<img
+  align="center"
+  width="250"
+  height="auto"
+  src="./assets/images/logo.png"/>
 
-<!--
-**VadimKosarev/VadimKosarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="./assets/gif/hi.gif" width="30px">, I'm Vadim<h1>
 
-Here are some ideas to get you started:
+<h3 align="center">I'm a beginner Вackend Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- ‍🎓 I’m currently learning **Data Structures and Algorithms.**
+
+- 🧙‍♂️🧝‍♂️ I’m looking to collaborate on **OpenSource Projects**
+
+- 🧮 All of my projects are available at **[My Portfolio](https://github.com/VadimKosarev)**
+
+- 💬 How to reach me **lilienthal.inc@gmail.com**
+
+- 🎮 **In my free time I like to play Chess♟️**
